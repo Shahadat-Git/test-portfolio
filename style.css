@@ -12,7 +12,7 @@ h1{
     display: flex;
 }
 .top-sec{
-    background-image: url(/images/top-banner.png);
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
     margin-bottom: 100px;
 }
@@ -32,7 +32,7 @@ h1{
     font-weight: 700;
 }
 .dream-big{
-    background-image: url(/images/dream-bg.png);
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
